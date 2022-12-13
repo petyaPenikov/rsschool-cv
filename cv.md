@@ -8,3 +8,10 @@
 - Like learning something new
 - Have nice personality
 - Want to become Senior Frontend dev
+# Skills
+- HTML (Basics)
+- CSS (Basics)
+- JS (Basics)
+- GIT (Basics)
+# Languages
+- English (B1) 
